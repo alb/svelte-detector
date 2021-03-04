@@ -3,6 +3,7 @@
 A simple Chrome / Firefox extension to see if a website is using Svelte.
 
 [🦊 Get it for Firefox](https://addons.mozilla.org/en-US/firefox/addon/svelte-detector/)
+
 [🟡 Get it for Chrome (Coming Soon)](https://github.com/alb/svelte-detector/)
 
 ### Build
