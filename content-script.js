@@ -4,7 +4,7 @@ function svelteCheck() {
 	let isSvelte = regex.test(document.body.innerHTML);
 
 	if(isSvelte) {
-		chrome.runtime.sendMessage({
+		browser.runtime.sendMessage({
 			"usingSvelte": true
 		});
 	} else {
