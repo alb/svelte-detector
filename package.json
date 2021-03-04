@@ -1,0 +1,21 @@
+{
+  "name": "svelte-detector",
+  "version": "1.0.0",
+  "description": "A quick and easy way to see if a website is using Svelte.",
+  "scripts": {
+    "build": "web-ext build --source-dir src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alb/svelte-detector.git"
+  },
+  "author": "alb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alb/svelte-detector/issues"
+  },
+  "homepage": "https://github.com/alb/svelte-detector#readme",
+  "devDependencies": {
+    "web-ext": "^5.5.0"
+  }
+}
