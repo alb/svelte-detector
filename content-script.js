@@ -8,7 +8,7 @@ function svelteCheck() {
 			"usingSvelte": true
 		});
 	} else {
-		setTimeout(svelteCheck, 2000);
+		setTimeout(svelteCheck, 1250);
 	}
 }
 
